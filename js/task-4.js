@@ -2,8 +2,20 @@
 // треба піднести це число. Вивесит в консоль рядок:
 // "Результат обчислення number"
 
-function sum(number, exponent) {
-  return `Результат обчислення: ${Math.pow(number, exponent)}`;
-}
+// function sum(number, exponent) {
+//   return `Результат обчислення: ${Math.pow(number, exponent)}`;
+// }
 
-console.log(sum(3, 3));
+// console.log(sum(3, 3));
+
+// Дано рядок, що складається із символів, наприклад, 'abcde'.
+// Перевір, що другим символом цього рядка є літера 'b'.
+// Якщо так - виведи 'Так' у консоль, в противному випадку виведи 'Ні'.
+
+// const string = "acde";
+
+// if (string[1] === "b") {
+//   console.log("Так");
+// } else {
+//   console.log("Ні");
+// }
